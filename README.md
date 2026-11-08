@@ -291,7 +291,7 @@ npm run typecheck
 ## Evidências
 
 - Prints das telas: [`docs/`](docs/)
-- Vídeo de até 3 minutos com o app rodando: [link do YouTube]
+- Vídeo de até 3 minutos com o app rodando: https://www.youtube.com/watch?v=7A-3xc5mftM
 
 ## Entregáveis da disciplina
 
@@ -301,7 +301,7 @@ npm run typecheck
 - [x] Acessibilidade: fontes grandes, contraste, áreas de toque e leitor de tela
 - [x] Aderência ao problema: jornada do trabalhador de rua definida na Ficha
 - [x] Documentação: README com a Ficha, instruções e prints das telas em `docs/`
-- [ ] Link do vídeo de até 3 minutos
+- [x] Vídeo de até 3 minutos com o app rodando: https://www.youtube.com/watch?v=7A-3xc5mftM
 
 ## Dados
 
